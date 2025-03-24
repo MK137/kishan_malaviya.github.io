@@ -21,7 +21,7 @@ repository               : "MK137/kishan_malaviya.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Kishan_2.png"
+  avatar           : "Kishan_2.png"
   name             : "Kishan Malaviya"
   pronouns         : "He/Him" # example: "she/her"  
   bio              : "PhD student in the Division of Physical and Mathematical at Ahmedabad University"
@@ -59,7 +59,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://medium.com/@kishanmalaviya.career"# URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username

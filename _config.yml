@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mohit Rohida"
+title                    : "Kishan Malaviya"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "PhD student in the Division of Physical and Mathematical at Ahmedabad University"
-url                      : https://mrohida.github.io/Mohit-Rohida/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,18 +22,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_20250311_193733_355.png"
-  name             : "Mohit Rohida"
-  pronouns         : # example: "she/her"  
+  name             : "Kishan Malaviya"
+  pronouns         : He/Him # example: "she/her"  
   bio              : "PhD student in the Division of Physical and Mathematical at Ahmedabad University"
   location         : "Ahmedabad"
   employer         : "Ahmedabad University"
   uri              : # URL
-  email            : "mohit.r@ahduni.edu.in" 
+  email            : "kishan.m1@ahduni.edu.in" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=IVmleFEAAAAJ"
-  impactstory      : # URL
+  #googlescholar    : "https://scholar.google.com/citations?user=IVmleFEAAAAJ"
+  #impactstory      : # URL
   #orcid            : #"http://orcid.org/yourorcidurl"
   #semantic         : # URL
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Thanos2110"
+  github           : "MK137"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # URL
+  medium           : https://medium.com/@kishanmalaviya.career # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username

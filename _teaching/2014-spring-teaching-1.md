@@ -1,4 +1,1 @@
----
-# Instructor
-- Precalculus
----
+

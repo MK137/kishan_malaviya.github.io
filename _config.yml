@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "images/Kishan_2.png"
   name             : "Kishan Malaviya"
-  pronouns         : He/Him # example: "she/her"  
+  pronouns         : "He/Him" # example: "she/her"  
   bio              : "PhD student in the Division of Physical and Mathematical at Ahmedabad University"
   location         : "Ahmedabad"
   employer         : "Ahmedabad University"

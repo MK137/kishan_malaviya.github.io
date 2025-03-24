@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD candidate at Ahmedabad University, India. My area of research includes quantum computing and its applications to solve differential equations numerically. I also work on applications of quantum computing to digital image processing.
+Hello, I am a second year PhD Physics student at Ahmedabad University. I am currently carrying out my PhD coursework. My research interests are understanding star formation in nearby galaxies, the physical processes (internal/ external) which triggers the star formation, multi-wavelength data analysis in Astronomy.  My other interests are reading, writing, coding and music. 

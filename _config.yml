@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=IVmleFEAAAAJ"
+  #googlescholar    : "https://scholar.google.com/citations?user=IVmleFEAAAAJ"
   #impactstory      : # URL
   #orcid            : #"http://orcid.org/yourorcidurl"
   #semantic         : # URL
@@ -59,7 +59,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : https://medium.com/@kishanmalaviya.career # URL
+  medium           : "https://medium.com/@kishanmalaviya.career" # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
